@@ -15,6 +15,7 @@ export default function Books() {
     
     <main>
         <h1>Books</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque eum tempore distinctio animi! Deserunt voluptatum placeat repellat inventore sequi doloribus!</p>
     </main>
     
     <footer>
