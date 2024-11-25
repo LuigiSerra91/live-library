@@ -26,6 +26,10 @@ main {
     background-color: grey;
     padding: 1rem;
 
+    p {
+        padding: 1rem;
+    }
+
 }
 
 footer {
