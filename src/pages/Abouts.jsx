@@ -1,4 +1,4 @@
-export default function About() {
+export default function Abouts() {
     return (
         <>
         <header>
@@ -14,7 +14,7 @@ export default function About() {
     </header>
     
     <main>
-        <h1>About</h1>
+        <h1>Abouts</h1>
     </main>
     
     <footer>

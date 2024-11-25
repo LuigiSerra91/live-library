@@ -7,9 +7,9 @@ export default function Books() {
         </div>
         <nav>
             <a href="/">Home</a>
-            <a href="/books">books</a>
-            <a href="abouts">abouts</a>
-            <a href="/contacts">contacts</a>
+            <a href="/Books">Books</a>
+            <a href="Abouts">Abouts</a>
+            <a href="/Contacts">Contacts</a>
         </nav>
     </header>
     
