@@ -1,3 +1,4 @@
+import MainMenu from "../components/MainMenu"
 export default function Books() {
     return (
         <>
@@ -5,12 +6,7 @@ export default function Books() {
         <div className="logo">
             LOGO
         </div>
-        <nav>
-            <a href="/">Home</a>
-            <a href="/Books">Books</a>
-            <a href="Abouts">Abouts</a>
-            <a href="/Contacts">Contacts</a>
-        </nav>
+        <MainMenu/>
     </header>
     
     <main>
